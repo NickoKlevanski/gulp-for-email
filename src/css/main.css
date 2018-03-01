@@ -1,16 +1,24 @@
-body {
-  background-color: #000;
+.reset {
+  border: 0;
+  border-collapse: separate;
+  -webkit-font-smoothing: antialiased;
+  padding: 0;
+  border-spacing: 0;
 }
-.p {
-  color: #fff;
+.reset-td {
+  padding: 0;
 }
-.box {
-  color: #fe33ac;
-  border-color: #fdcdea;
+.reset-link {
+  text-decoration: none;
 }
-.box div {
-  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+.reset-img {
+  width: 100%;
+  -ms-interpolation-mode: bicubic;
+  border: 0;
+  line-height: 100%;
+  outline: none;
+  text-decoration: none;
+  height: auto;
 }
 
 /*# sourceMappingURL=main.css.map */
